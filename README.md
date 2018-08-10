@@ -1,1 +1,1 @@
-# PagePress, an awesome static web page builder for you !
+# PagePress, an awesome static web page builder for you!
